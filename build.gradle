@@ -1,0 +1,14 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+repositories {
+     jcenter()
+}
+
+dependencies {   
+   mainClassName = 'EPR'
+   compile 'org.qchackers.jquil:api:1.0.0'
+}
+
+
+
