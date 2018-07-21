@@ -1,17 +1,15 @@
 package jgrove;
 
-import java.util.Arrays;
-import org.junit.*;
-import jquil.QVMConnection;
-import jquil.g;
-import jquil.Program;
-import static org.junit.Assert.*;
-
+/**
+ * <h1>Main</h1>
+ * The main class for jgrove
+ * <p>
+ */
 public class Main {
 
- public static void main(String[] args) {
-  Introduction.run();
+    public static void main(String[] args) {
+	Introduction.run();   
 
- }
+    }
 
 }
