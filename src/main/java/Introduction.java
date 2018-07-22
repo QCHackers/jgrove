@@ -5,9 +5,6 @@ import jquil.g;
 import jquil.Program;
 import jquil.WavefunctionSimulator;
 import jquil.Wavefunction;
-import org.apache.commons.math3.complex.Complex;
-import org.apache.commons.math3.complex.ComplexFormat;
-import java.lang.Math;
 import java.util.*;
 
 /**
